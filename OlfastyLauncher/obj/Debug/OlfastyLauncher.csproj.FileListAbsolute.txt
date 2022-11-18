@@ -1,0 +1,14 @@
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\bin\Debug\OlfastyLauncher.exe.config
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\bin\Debug\OlfastyLauncher.exe
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\bin\Debug\OlfastyLauncher.pdb
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.Properties.Resources.resources
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.csproj.GenerateResource.cache
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.exe
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.pdb
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.loading.resources
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.main_launcher.resources
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Berke\source\repos\OlfastyLauncher\OlfastyLauncher\obj\Debug\OlfastyLauncher.csproj.CopyComplete
